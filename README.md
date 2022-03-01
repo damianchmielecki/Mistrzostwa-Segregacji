@@ -3,7 +3,7 @@
 Gra stworzona na potrzeby zaliczenia projektu z przedmiotu Języki Programowania Wysokiego Poziomu na semestrze 5 kierunku Elektronika i Telekomunikacja na Politechnice Gdańskiej.
 
 # Zasady gry
-Grę można rozpocząć/zatrzymać klikając przycisk Start/Stop.
+1. Grę można rozpocząć/zatrzymać klikając przycisk Start/Stop.
 
 W każdej rudzie spadnie 7 losowych odpadków.
 Aby uzyskać poprawny wynik należy trafić odpadkami do odpowiedniego pojemnika (odpadki można poruszać strzałkami na klawiaturze). 

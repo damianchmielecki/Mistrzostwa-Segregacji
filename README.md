@@ -1,16 +1,14 @@
 # Mistrzostwa Segregacji
 
-Gra stworzona na potrzeby zaliczenia projektu z przedmiotu Języki Programowania Wysokiego Poziomu na semestrze 5 kierunku Elektronika i Telekomunikacja na Politechnice Gdańskiej.
+A game created for the purpose of completing the project in the subject of High-Level Programming Languages ​​in semester 5 of Electronics and Telecommunications at the Gdańsk University of Technology.
 
-# Zasady gry
-1. Grę można rozpocząć/zatrzymać klikając przycisk Start/Stop.
+# Game rules
+1. The game can be started / stopped by clicking the Start / Stop button.
 
-2. W każdej rudzie spadnie 7 losowych odpadków.
+2. Each round will drop 7 random scraps.
 
-3. Aby uzyskać poprawny wynik należy trafić odpadkami do odpowiedniego pojemnika (odpadki można poruszać strzałkami na klawiaturze). 
+3. In order to get a correct result, you must hit the garbage to the appropriate container (the waste can be moved with the arrows on the keyboard).
 
-4. To czy odpadek trafił do odpowiedniego miejsca informuje
+4. A message on the bottom panel informs you whether the waste has been placed in the right place or not
 
-5. Komunikat znajdujący się na dolnym panelu.
-
-6. Aby zmienić poziom trudności można dowoli zmieniać prędkość spadających odpadków między 3 poziomami.
+5. To change the difficulty level, you can freely change the speed of falling debris between 3 levels.

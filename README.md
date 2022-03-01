@@ -13,6 +13,7 @@ A game created for the purpose of completing the project in the subject of High-
 
 5. To change the difficulty level, you can freely change the speed of falling debris between 3 levels.
 
+![image](https://user-images.githubusercontent.com/93549819/156221119-a649a569-e986-43a7-a0f8-570376ffe7a1.png)
 
 ![image](https://user-images.githubusercontent.com/93549819/156220788-f47151c4-2213-4b6d-9183-96b82b50c0d7.png)
 
